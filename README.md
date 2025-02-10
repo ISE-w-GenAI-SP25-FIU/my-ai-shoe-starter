@@ -59,7 +59,7 @@ the environment variables in `cloud-run.yml` to work for your team's GCP project
 First, deploy your project manually from the command line.
 
 1. Set up your Google Cloud Project by following the "Before you begin" section of 
-http://cloud/run/docs/quickstarts/build-and-deploy/deploy-python-service?hl=en.
+[http://cloud/run/docs/quickstarts/build-and-deploy/deploy-python-service?hl=en.](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service?hl=en)
 
 2. Build the image using the following command, replacing the project ID and service 
 name with your info. Your service name is the name of your webapp or project and can 
